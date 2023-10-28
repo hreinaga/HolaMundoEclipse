@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author HREINAGA
- *
- */
-module HolaMundo {
-}
